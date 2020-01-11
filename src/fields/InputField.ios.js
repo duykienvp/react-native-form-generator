@@ -43,7 +43,7 @@ export class InputField extends React.Component{
 
 InputField.propTypes = {
   multiline: PropTypes.bool,
-  placeholder:PropTypes.string,
+  placeholder: PropTypes.string,
 }
 
 
